@@ -4,7 +4,6 @@ import React from "react";
 function RenderSkills({ data, skillsIsLoading }) {
     const page_descr =  <>
         <h3 align="center" className="section_header">Skills</h3>
-        <p className="title_text">Here you will see the skills I have developed throughout my career as a programmer.</p>
     </>;
     if (skillsIsLoading) {
         return (
