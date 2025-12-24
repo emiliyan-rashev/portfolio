@@ -5,7 +5,7 @@ function RenderProjects({ data, projectsIsLoading }) {
     const page_descr = <>
         <h3 align="center" className="section_header">Projects</h3>
         <p className="title_text">
-            This section showcases my projects, with <b>Django Cashier App</b> being my current favorite.<br/>
+            This section showcases my projects, with <b>Django Cashier App</b> being my current favourite.<br/>
             The project originated as part of the final assignment in the Python Web Developer program at SoftUni and evolved significantly through iterative refactoring and improvement.<br/>
             It allowed me to bring to life an idea I had even before the course — digitising a complex manual process where calculations were error-prone and inconsistently performed.
         </p>
